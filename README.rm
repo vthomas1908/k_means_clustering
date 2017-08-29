@@ -1,0 +1,5 @@
+experiment on using the K-means clustering algorithm to cluster and classify the OptDigits data, originally from the UCI ML repository
+
+This experiment is given pixel data for digits and learns to identify the digit based on its learned clusters.
+
+Imaging of the cluster centers is generated to show what digit the cluster might be identifying as
